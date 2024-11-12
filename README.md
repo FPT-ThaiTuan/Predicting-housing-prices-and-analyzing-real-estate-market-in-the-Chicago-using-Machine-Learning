@@ -1,5 +1,7 @@
 ### **ABSTRACT: This project aims to predict house prices using the Chicago house price dataset, featuring attributes such as the number of bedrooms, square footage, and tax values. Two predictive models were applied: RandomForestRegressor, which captures complex patterns, and Linear Regression, a simpler and more interpretable approach. The dataset was split into training and testing sets, and model performance was evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics. The Random Forest Regressor achieved an MSE of 9.70 and an R² of 0.95, indicating high accuracy and a strong fit to the data. Linear Regression had an MSE of 57.58 and an R² of 0.70, indicating weaker performance on complex data. As expected, the Random Forest model outperformed Linear Regression, while Linear Regression provided faster and more interpretable results. This analysis highlights how different algorithms can be leveraged for real-world predictions in real estate, balancing accuracy and interpretability.**
 
+#### **Note : If the code doesn't run, note down the paths to the files because I'm changing them.**
+
 #### **Steps:**
 #### **1. Read the File: Load the Chicago house price dataset.**
 #### **2. Data Preprocessing: Clean and prepare the data, handling missing values and transforming features as needed.**
